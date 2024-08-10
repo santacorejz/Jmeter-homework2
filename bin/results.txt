@@ -1,0 +1,119 @@
+Breed: British Longhair, Origin: 
+Breed: British Longhair, Origin: 
+Breed: British Longhair, Origin: 
+Breed: British Longhair, Origin: 
+Breed: British Longhair, Origin: 
+Breed: British Longhair, Origin: 
+Breed: British Longhair, Origin: 
+Breed: British Longhair, Origin: 
+Breed: British Longhair, Origin: 
+Breed: British Longhair, Origin: 
+Breed: British Longhair, Origin: 
+Breed: British Longhair, Origin: 
+Breed: Bambino, Origin: Crossbreed
+Breed: Bambino, Origin: Crossbreed
+Breed: Bambino, Origin: Crossbreed
+Breed: Arabian Mau, Origin: Natural
+Breed: Arabian Mau, Origin: Natural
+Breed: Balinese, Origin: Crossbreed
+Breed: Asian, Origin: 
+Breed: American Curl, Origin: Mutation
+Breed: American Curl, Origin: Mutation
+Breed: American Curl, Origin: Mutation
+Breed: American Curl, Origin: Mutation
+Breed: American Curl, Origin: Mutation
+Breed: American Curl, Origin: Mutation
+Breed: American Curl, Origin: Mutation
+Breed: American Curl, Origin: Mutation
+Breed: American Curl, Origin: Mutation
+Breed: American Curl, Origin: Mutation
+Breed: American Curl, Origin: Mutation
+Breed: American Curl, Origin: Mutation
+Breed: American Curl, Origin: Mutation
+Breed: American Curl, Origin: Mutation
+Breed: American Curl, Origin: Mutation
+Breed: American Curl, Origin: Mutation
+Breed: American Curl, Origin: Mutation
+Breed: American Curl, Origin: Mutation
+Breed: American Curl, Origin: Mutation
+Breed: American Curl, Origin: Mutation
+Breed: American Curl, Origin: Mutation
+Breed: American Curl, Origin: Mutation
+Breed: American Curl, Origin: Mutation
+Breed: American Curl, Origin: Mutation
+Breed: American Curl, Origin: Mutation
+Breed: American Curl, Origin: Mutation
+Breed: American Curl, Origin: Mutation
+Breed: American Curl, Origin: Mutation
+Breed: American Curl, Origin: Mutation
+Breed: American Curl, Origin: Mutation
+Breed: Bombay, Origin: Crossbred
+Fact: Cats eat grass to aid their digestion and to help them get rid of any fur in their stomachs.
+Breed: Bombay, Origin: Crossbred
+Fact: Heat occurs several times a year and can last anywhere from 3 to 15 days.
+Breed: Bombay, Origin: Crossbred
+Fact: Julius Ceasar, Henri II, Charles XI, and Napoleon were all afraid of cats.
+Breed: Bombay, Origin: Crossbred
+Breed: Bombay, Origin: Crossbred
+Breed: Bombay, Origin: Crossbred
+Fact: The life expectancy of cats has nearly doubled over the last fifty years.
+Breed: Bombay, Origin: Crossbred
+Fact: A cat will tremble or shiver when it is in extreme pain.
+Breed: Bombay, Origin: Crossbred
+Fact: The cat appears to be the only domestic companion animal not mentioned in the Bible.
+Fact: Cats must have fat in their diet because they can't produce it on their own.
+Breed: Bombay, Origin: Crossbred
+Fact: In 1987 cats overtook dogs as the number one pet in America.
+Breed: Bombay, Origin: Crossbred
+Fact: A cat has two vocal chords, and can make over 100 sounds.
+Fact: Cats lived with soldiers in trenches, where they killed mice during World War I.
+Breed: Bombay, Origin: Crossbred
+Breed: Bombay, Origin: Crossbred
+Fact: Normal body temperature for a cat is 102 degrees F.
+Fact: A cat’s nose pad is ridged with a unique pattern, just like the fingerprint of a human.
+Breed: Bombay, Origin: Crossbred
+Fact: A cat’s heart beats nearly twice as fast as a human heart, at 110 to 140 beats a minute.
+Breed: Bombay, Origin: Crossbred
+Fact: The richest cat is Blackie who was left ?15 million by his owner, Ben Rea.
+Fact: Ancient Egyptian family members shaved their eyebrows in mourning when the family cat died.
+Breed: Bombay, Origin: Crossbred
+Breed: Bombay, Origin: Crossbred
+Breed: Bombay, Origin: Crossbred
+Fact: A cat’s heart beats nearly twice as fast as a human heart, at 110 to 140 beats a minute.
+Breed: Bombay, Origin: Crossbred
+Breed: Bombay, Origin: Crossbred
+Breed: Asian Semi-longhair, Origin: Crossbreed
+Breed: Asian Semi-longhair, Origin: Crossbreed
+Breed: Asian Semi-longhair, Origin: Crossbreed
+Breed: Asian Semi-longhair, Origin: Crossbreed
+Fact: When a cat drinks, its tongue - which has tiny barbs on it - scoops the liquid up backwards.
+Fact: Cats lived with soldiers in trenches, where they killed mice during World War I.
+Breed: Asian Semi-longhair, Origin: Crossbreed
+Breed: Asian Semi-longhair, Origin: Crossbreed
+Breed: null, Origin: null
+Breed: null, Origin: null
+Breed: null, Origin: null
+Breed: null, Origin: null
+Breed: null, Origin: null
+Breed: null, Origin: null
+Breed: null, Origin: null
+Breed: Bengal, Origin: Hybrid
+Breed: Bengal, Origin: Hybrid
+Breed: Burmilla, Origin: Crossbreed
+Breed: Burmilla, Origin: Crossbreed
+Breed: null, Origin: null
+Breed: null, Origin: null
+Breed: null, Origin: null
+Breed: null, Origin: null
+Breed: null, Origin: null
+Breed: null, Origin: null
+Breed: null, Origin: null
+Breed: null, Origin: null
+Breed: null, Origin: null
+Breed: null, Origin: null
+Breed: null, Origin: null
+Breed: null, Origin: null
+Fact: When a cat chases its prey, it keeps its head level. Dogs and humans bob their heads up and down.
+Breed: Balinese, Origin: Crossbreed
+Breed: Balinese, Origin: Crossbreed
+Breed: Bambino, Origin: Crossbreed
